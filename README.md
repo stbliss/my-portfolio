@@ -1,2 +1,1 @@
-# iportfolio
-this portfolio contains lots of my personal information
+this is my portfolio
