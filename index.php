@@ -78,7 +78,9 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Art is the expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power.
+            Here in StblissArt we practice Digital painting which is an emerging art form in which traditional painting techniques such as watercolor, oils, impasto, etc. are applied using digital tools by means of a computer, a graphics tablet and stylus, and software
+          </p>
         </div>
 
         <div class="row">
@@ -88,14 +90,20 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Digital Artiste, Web Developer &amp; Engineer</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+             My name is Stanley Onyebuchi Madueke, am an Engineer, a Digital artiste and a Web developer, i have worked in government parastatals, private companies as an Engineer.
+             due to my vast experience and exposure i have been able to improve on my personal skills, I am passionate about my work.
+             I am ambitious and driven.
+             I am highly organized.
+             I'm a people-person.
+             I'm a natural leader.
+             I am results-oriented.
+             I am an excellent communicator. 
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.stbliss.herukoapp.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234-8103111163</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Owerri Imo State, Nigeria.</span></li>
                 </ul>
@@ -110,8 +118,8 @@
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+            Aside being an Engineer, i am a Digital Artiste and a Web Developer, had done over 200 jobs as a digital artiste and counting,  with a lots of beautiful reviews and fitbacks.
+            wwhat i do i have done so passionately with so much love and to perfection.
             </p>
           </div>
         </div>
@@ -125,7 +133,7 @@
 
         <div class="section-title">
           <h2>Facts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>we certainley cannot talk experience and exposures without talking about numbers, below is the proof of our experience and exposures in numbers.</p>
         </div>
 
         <div class="row no-gutters">
@@ -220,9 +228,9 @@
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <span class="skill">Painting <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -246,7 +254,7 @@
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Alex Smith</h4>
+              <h4>StblissArt</h4>
               <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
               <ul>
                 <li>Portland par 127,Orlando, FL</li>
@@ -257,9 +265,9 @@
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
+              <h4>Bio-reources Engineering &amp; Graphic Design</h4>
               <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+              <p><em>Micheal Okpara University Umuahia, Abia State, Nigeria</em></p>
               <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
             </div>
             <div class="resume-item">
@@ -305,7 +313,8 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>This are the edited collection of our best Artistic artwork with every intention to showcase our style and method of work. A portfolio that shows our clients our versatility in different samples of current work.
+            examples are The man-spiritual body art, The Music-Art and The Beautiful-Extraterrestrial  </p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -323,81 +332,81 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/amazing.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/amazing.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/amazing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Amazing Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/amazing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Amazing Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/awesome (2).jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/awesome (2).jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/awesome (2).jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Awesome Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/awesome (2).jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Awesome Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/hair.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/hair.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/hair.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Hair Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/hair.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Hair Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/Inexpensive-Art.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/Inexpensive-Art.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/Inexpensive-Art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Inexpensive-Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/Inexpensive-Art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Inexpensive-Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/man-spiritual-body-art-.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/man-spiritual-body-art-.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/man-spiritual-body-art-.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Man Spiritual Body Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/man-spiritual-body-art-.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Man Spiritual Body Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/music-art.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/music-art.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/paint.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/paint.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/paint.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Paint Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/paint.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Paint Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/beautiful-extraterrestrial.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/beautiful-extraterrestrial.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/beautiful-extraterrestrial.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Beautiful-Extraterrestrial Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/beautiful-extraterrestrial.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Beautiful-Extraterrestrial Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../../iPortfolio/iPortfolio/photos/music-art.jpg" class="img-fluid" alt="">
+              <img src="../iPortfolio/photos/music-art.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../../iPortfolio/iPortfolio/photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
+                <a href="../iPortfolio/photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
@@ -468,7 +477,7 @@
               <div class="testimonial-item" data-aos="fade-up">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Stblissart has been of massive importance in the development of my company and moving forward
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
