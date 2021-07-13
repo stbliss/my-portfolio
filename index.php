@@ -331,81 +331,81 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/amazing.jpg" class="img-fluid" alt="">
+              <img src="./photos/amazing.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/amazing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Amazing Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/amazing.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Amazing Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/awesome (2).jpg" class="img-fluid" alt="">
+              <img src="./photos/awesome (2).jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/awesome (2).jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Awesome Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/awesome (2).jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Awesome Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/hair.jpg" class="img-fluid" alt="">
+              <img src="./photos/hair.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/hair.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Hair Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/hair.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Hair Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/Inexpensive-Art.jpg" class="img-fluid" alt="">
+              <img src="./photos/Inexpensive-Art.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/Inexpensive-Art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Inexpensive-Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/Inexpensive-Art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Inexpensive-Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/man-spiritual-body-art-.jpg" class="img-fluid" alt="">
+              <img src="./photos/man-spiritual-body-art-.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/man-spiritual-body-art-.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Man Spiritual Body Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/man-spiritual-body-art-.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Man Spiritual Body Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/music-art.jpg" class="img-fluid" alt="">
+              <img src="./photos/music-art.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/paint.jpg" class="img-fluid" alt="">
+              <img src="./photos/paint.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/paint.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Paint Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/paint.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Paint Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/beautiful-extraterrestrial.jpg" class="img-fluid" alt="">
+              <img src="./photos/beautiful-extraterrestrial.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/beautiful-extraterrestrial.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Beautiful-Extraterrestrial Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/beautiful-extraterrestrial.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Beautiful-Extraterrestrial Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../iPortfolio/photos/music-art.jpg" class="img-fluid" alt="">
+              <img src="./photos/music-art.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../iPortfolio/photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
+                <a href="./photos/music-art.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Music Art"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
@@ -605,14 +605,14 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
+        &copy; Copyright <strong><span>STBLISSART</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">Stbliss</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
