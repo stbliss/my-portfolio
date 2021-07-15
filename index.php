@@ -90,7 +90,7 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Digital Artiste, Web Developer &amp; Engineer</h3>
             <p class="fst-italic">
-             My name is Stanley Onyebuchi Madueke, am an Engineer, a Digital artiste and a Web developer, i have worked in government parastatals, private companies as an Engineer.
+             My name is Stanley Onyebuchi Madueke, i'm an Engineer, a Digital artiste and a Web developer, i have worked in government parastatals, private companies as an Engineer.
              due to my vast experience and exposure i have been able to improve on my personal skills, I am passionate about my work.
              I am ambitious and driven.
              I am highly organized.
@@ -118,8 +118,8 @@
               </div>
             </div>
             <p>
-            Aside being an Engineer, i am a Digital Artiste and a Web Developer, had done over 200 jobs as a digital artiste and counting,  with a lots of beautiful reviews and fitbacks.
-            wwhat i do i have done so passionately with so much love and to perfection.
+            Aside being an Engineer, i'm a Digital Artiste and a Web Developer, had done over 200 jobs as a digital artiste and counting,  with a lots of beautiful reviews and feedbacks.
+            what i do i have done so passionately with so much love and to perfection.
             </p>
           </div>
         </div>
