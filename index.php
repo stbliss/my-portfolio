@@ -65,6 +65,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
+      <h3>Welcome to</h3>
       <h1>Stbliss Art</h1>
       <p>I'm <span class="typed" data-typed-items="A Digital Artiste, A Developer, An Engineer"></span></p>
     </div>
